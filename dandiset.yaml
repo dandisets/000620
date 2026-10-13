@@ -15,8 +15,6 @@ acknowledgement: We thank Rishi Rajalingham, Sujay Neupane, Alexandra Ferguson, 
   our neurophysiology methods. We thank the CatalystNeuro team including Cody Baker,
   Luiz Tauffer, Felix Pei, Alessio Buccino, and Ben Dichter for their help open-sourcing
   our data. We thank Michael Visconti for fabricating much of our experimental hardware.
-  J.T. is supported by the Siegel Family Quest for Intelligence at MIT, ANR Science
-  of AI program, and SCGB.
 assetsSummary:
   approach:
   - name: electrophysiological approach
@@ -140,8 +138,7 @@ contributor:
   schemaKey: Organization
 dateCreated: '2023-08-09T18:02:50.024110+00:00'
 description: Dataset for macaque multi-object working memory task with frontal cortex
-  neurophysiology recordings. See https://github.com/jazlab/multi_object_memory_2025
-  for usage instructions.
+  neurophysiology recordings.
 ethicsApproval: []
 id: DANDI:000620/draft
 identifier: DANDI:000620
