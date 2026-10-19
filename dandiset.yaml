@@ -165,19 +165,34 @@ relatedResource:
   resourceType: dcite:Preprint
   schemaKey: Resource
   url: https://doi.org/10.64898/2026.01.27.702062
-- name: 'jazlab/multi_object_memory_2025: GitHub repository for usage instructions
-    and code'
+- identifier: Multi-object memory github
+  name: Multi-object memory github
   relation: dcite:IsDescribedBy
   repository: GitHub
   resourceType: dcite:Software
   schemaKey: Resource
   url: https://github.com/jazlab/multi_object_memory_2025
-- name: Multi-object working memory in macaque frontal cortex (OSF Project)
+- name: Multi-object working memory OSF cache
   relation: dcite:IsSupplementedBy
   repository: OSF
   resourceType: dcite:Dataset
   schemaKey: Resource
   url: https://osf.io/vyw49/overview
+- name: A Relational Code for Objects in Primate Frontal Cortex
+  relation: dcite:IsCitedBy
+  resourceType: dcite:Preprint
+  schemaKey: Resource
+  url: https://www.biorxiv.org/content/10.64898/2026.10.17.759839
+- identifier: Relational coding github
+  relation: dcite:IsCitedBy
+  resourceType: dcite:Software
+  schemaKey: Resource
+  url: https://github.com/jazlab/relational_coding_2026
+- name: Relational coding OSF cache
+  relation: dcite:IsCitedBy
+  resourceType: dcite:Dataset
+  schemaKey: Resource
+  url: https://osf.io/8vmqg
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
